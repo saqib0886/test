@@ -1,0 +1,26 @@
+git init  = to intial the repository
+git clone  = to colone the repo (make sure you have repo 
+git add origin  = (make sure you have url ) to add repo
+git add (name of the file ) 
+git add -A (if you are updating entire git repo)
+
+
+if you modified the file you type 
+
+git commit -m "message" (file name)
+and push the changes permanently 
+
+adn type the command below to check 
+
+git log
+
+git status (tell you if your repo is update to date or not )
+if a file is modifiled or unchange or un added file 
+it shows you if everything is up to date
+
+git --help if you want to know the command 
+or man git 
+
+(example git branch --help)
+
+
